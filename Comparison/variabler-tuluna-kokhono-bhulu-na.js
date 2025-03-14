@@ -38,3 +38,4 @@ const isStudy = true;
 const isFriendStudy = false;
 console.log(isStudy == isFriendStudy); // false
 
+console.log(10 !=10); // false
